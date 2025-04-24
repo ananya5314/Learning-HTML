@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(201, 26, 201);
+}
+ .heading1{
+    background-color: rgb(197, 202, 216);
+    color: rgb(59, 65, 171);
+ }
+ .head2{
+    color: rgb(202, 187, 215);
+    font-size: 50px;
+    font-family: 'Gill Sans';
+    text-decoration: underline;
+    text-decoration-color: black;
+    text-decoration-style: dashed;
+    word-spacing: 40px;
+    letter-spacing: 5px;
+     text-shadow:  5px 5px 5px black; 
+ }
